@@ -1,0 +1,5 @@
+<application>
+  <component name="JFormDesigner">
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+  </component>
+</application>
