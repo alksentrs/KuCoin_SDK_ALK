@@ -1,0 +1,32 @@
+package com.alk.kucoinsdk.business.market;
+
+import com.alk.kucoinsdk.business.KucoinResponse;
+
+import java.util.List;
+
+/**
+ * Created by alksentrs (aleksander medella) on 25/06/18.
+ */
+public class KLine extends KucoinResponse {
+
+    private List<List<Float>> data;
+
+    public List<List<Float>> getData() {
+        return data;
+    }
+
+    public void setData(List<List<Float>> data) {
+        this.data = data;
+    }
+
+    @Override
+    public String toString() {
+        return "{" +
+                "success:" + success + "," +
+                "code:" + code + "," +
+                "msg:" + msg + "," +
+                "timestamp:" + timestamp + "," +
+                "data:" + data +
+                "}";
+    }
+}
