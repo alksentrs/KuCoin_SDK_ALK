@@ -1,0 +1,11 @@
+android.util
+com.alk.kucoinsdk.application
+com.alk.kucoinsdk.business
+com.alk.kucoinsdk.business.assetsOperation
+com.alk.kucoinsdk.business.currenciesPlugin
+com.alk.kucoinsdk.business.language
+com.alk.kucoinsdk.business.market
+com.alk.kucoinsdk.business.marketForUser
+com.alk.kucoinsdk.business.trading
+com.alk.kucoinsdk.business.user
+com.alk.kucoinsdk.network
