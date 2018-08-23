@@ -25,6 +25,10 @@
           <option name="url" value="https://ksander@bitbucket.org/ksander/tostringjson" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ksander@bitbucket.org/ksander/jevent" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
