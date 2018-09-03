@@ -1,5 +1,11 @@
 <application>
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
+    <node name="designer">
+      <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
+      <entry key="newform.superclass.history1" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.toolkit" value="Swing" />
+    </node>
   </component>
 </application>
