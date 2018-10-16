@@ -2,4 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
 </application>
